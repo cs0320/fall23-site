@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/cs0320/fall23-site.git/static/css/main.073c9b0a.css",
-    "main.js": "/cs0320/fall23-site.git/static/js/main.acb8757d.js",
-    "static/js/787.dd4029b4.chunk.js": "/cs0320/fall23-site.git/static/js/787.dd4029b4.chunk.js",
-    "static/media/logo.svg": "/cs0320/fall23-site.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/cs0320/fall23-site.git/index.html",
-    "main.073c9b0a.css.map": "/cs0320/fall23-site.git/static/css/main.073c9b0a.css.map",
-    "main.acb8757d.js.map": "/cs0320/fall23-site.git/static/js/main.acb8757d.js.map",
-    "787.dd4029b4.chunk.js.map": "/cs0320/fall23-site.git/static/js/787.dd4029b4.chunk.js.map"
+    "main.css": "/cs0320/fall23-site/static/css/main.073c9b0a.css",
+    "main.js": "/cs0320/fall23-site/static/js/main.6e24035f.js",
+    "static/js/787.dd4029b4.chunk.js": "/cs0320/fall23-site/static/js/787.dd4029b4.chunk.js",
+    "static/media/logo.svg": "/cs0320/fall23-site/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cs0320/fall23-site/index.html",
+    "main.073c9b0a.css.map": "/cs0320/fall23-site/static/css/main.073c9b0a.css.map",
+    "main.6e24035f.js.map": "/cs0320/fall23-site/static/js/main.6e24035f.js.map",
+    "787.dd4029b4.chunk.js.map": "/cs0320/fall23-site/static/js/787.dd4029b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.acb8757d.js"
+    "static/js/main.6e24035f.js"
   ]
 }
