@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/fall23-site/static/css/main.073c9b0a.css",
-    "main.js": "/fall23-site/static/js/main.2359447e.js",
+    "main.css": "/fall23-site/static/css/main.25ea1a9e.css",
+    "main.js": "/fall23-site/static/js/main.c1e04a23.js",
     "static/js/787.dd4029b4.chunk.js": "/fall23-site/static/js/787.dd4029b4.chunk.js",
-    "static/media/logo.svg": "/fall23-site/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/fall23-site/index.html",
-    "main.073c9b0a.css.map": "/fall23-site/static/css/main.073c9b0a.css.map",
-    "main.2359447e.js.map": "/fall23-site/static/js/main.2359447e.js.map",
+    "main.25ea1a9e.css.map": "/fall23-site/static/css/main.25ea1a9e.css.map",
+    "main.c1e04a23.js.map": "/fall23-site/static/js/main.c1e04a23.js.map",
     "787.dd4029b4.chunk.js.map": "/fall23-site/static/js/787.dd4029b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.2359447e.js"
+    "static/css/main.25ea1a9e.css",
+    "static/js/main.c1e04a23.js"
   ]
 }
