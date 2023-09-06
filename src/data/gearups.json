@@ -1,0 +1,39 @@
+[
+   {
+            "id":1,
+            "title":"Sprint 1: CSV",
+            "date":"9/17-9/18",
+            "slides": "",
+            "recording": ""
+        },
+        {
+            "id":3,
+            "title":"Sprint 2: Server",
+            "date":"9/21-9/22",
+            "slides": "",
+            "recording": ""
+        },
+        {
+            "id":5,
+            "title":"Sprint 3: Mock",
+            "date":"10/5-10/6",
+            "slides": "",
+            "recording": ""
+        },
+        {
+            "id":7,
+            "title":"Sprint 4: REPL",
+            "date":"10/19-10/20",
+            "slides": "",
+            "recording": ""
+        },
+        {
+            "id":7,
+            "title":"Sprint 5: Maps",
+            "date":"11/2-11/3",
+            "slides": "",
+            "recording": ""
+        }
+    ]
+    
+    

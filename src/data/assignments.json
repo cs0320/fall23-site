@@ -1,0 +1,84 @@
+[
+{
+    "id":1,
+    "title":"Policy Quiz",
+    "link":"https://docs.google.com/forms/d/e/1FAIpQLSda-xOAEfimhGxOV24xZ9v9xl5QTfdBMtNfcPdiqPK4C_bXeA/viewform?usp=sf_link",
+    "release": "9/7",
+    "due": "9/15",
+    "demos": "N/A"
+},
+{
+        "id":1,
+        "title":"Sprint 1: CSV",
+        "link":"",
+        "release": "9/7",
+        "due": "9/15",
+        "demos": "9/16-9/17"
+    },
+    {
+        "id":2,
+        "title":"CSV Review + Reflection",
+        "link":"",
+        "release": "9/18",
+        "due": "9/21",
+        "demos": "N/A"
+    },
+    {
+        "id":3,
+        "title":"Sprint 2: Server",
+        "link":"",
+        "release": "9/21",
+        "due": "9/29",
+        "demos": "9/30-10/1"
+    },
+    {
+        "id":4,
+        "title":"Server Review + Reflection",
+        "link":"",
+        "release": "10/2",
+        "due": "10/5",
+        "demos": "N/A"
+    },
+    {
+        "id":5,
+        "title":"Sprint 3: Mock",
+        "link":"",
+        "release": "10/5",
+        "due": "10/13",
+        "demos": "10/14-10/15"
+    },
+    {
+        "id":6,
+        "title":"Mock Review + Reflection",
+        "link":"",
+        "release": "10/16",
+        "due": "10/19",
+        "demos": "N/A"
+    },
+
+    {
+        "id":7,
+        "title":"Sprint 4: REPL",
+        "link":"",
+        "release": "10/19",
+        "due": "10/27",
+        "demos": "10/28-10/29"
+    },
+    {
+        "id":8,
+        "title":"REPL Review + Reflection",
+        "link":"",
+        "release": "10/30",
+        "due": "11/2",
+        "demos": "N/A"
+    },
+    {
+        "id":9,
+        "title":"Term Project",
+        "link":"",
+        "release": "-",
+        "due": "-",
+        "demos": "-"
+    }
+]
+

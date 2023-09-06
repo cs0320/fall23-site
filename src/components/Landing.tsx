@@ -1,0 +1,64 @@
+import React from 'react';
+import logo from './logo.svg';
+import '../App.css';
+import Navbar from './Navbar';
+// import SceneViewer from './SceneViewer';
+import { Disclosure } from "@headlessui/react";
+import DropDown from './Helpers/Dropdown';
+import CourseInfo from './CourseInfo';
+import Projects from './Projects';
+import Lectures from './Lectures';
+import Calendar from './Calendar';
+import Staff from './Staff';
+
+
+
+function Landing() {
+  return (
+    // style={{backgroundColor: '#0c0036'}}
+    // 1D1058
+    // style={{backgroundColor: '#1D1058'}}
+    <section className="px-2  py-32 md:px-0 font-mono bg-gray-50 " >
+
+
+      <div className="container items-center max-w-6xl px-8 mx-auto xl:px-5">
+        <div className="flex flex-wrap items-center sm:-mx-3 px-8">
+          <div className="w-full md:w-1/2 md:px-3 lg:px-8">
+
+            <div className="w-full pb-6 space-y-6 sm:max-w-md lg:max-w-lg md:space-y-4 lg:space-y-8 xl:space-y-9 sm:pr-5 lg:pr-0 md:pb-0">
+              <h1 className="text-4xl font-extrabold tracking-tight text-violet-100 sm:text-5xl md:text-4xl lg:text-5xl xl:text-6xl">
+                <span className="block text-violet-500 typing-demo">cs0320.</span>
+                <span className="block xl:inline text-indigo-800">
+                  Introduction to Software Engineering</span>
+                
+              </h1>
+              {/* <div className="relative flex flex-col sm:flex-row sm:space-x-4">
+            <a href="#_" className="flex items-center w-full px-6 py-3 mb-3 text-lg text-white bg-sky-500 rounded-md sm:mb-0 hover:bg-sky-600 sm:w-auto">
+            View on the App Store
+              <svg xmlns="http://www.w3.org/2000/svg" className="w-5 h-5 ml-1" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+            </a>
+          </div> */}
+            </div>
+          </div>
+          <div className="w-full md:w-1/2">
+            <div className="w-full h-auto">
+              <div className='imgBox'>
+                <img src='https://i.ibb.co/Hnj8gdw/185-2x.png'></img>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <CourseInfo />
+      <Projects />
+      <Lectures />
+      <Calendar />
+      <Staff />
+
+
+    </section>
+  );
+}
+
+export default Landing;
