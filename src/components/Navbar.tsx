@@ -8,17 +8,11 @@ function Navbar() {
     <div className="container flex flex-col flex-wrap items-center justify-between py-5 mx-auto md:flex-row max-w-7xl text-violet-100">
         <div className="relative flex flex-col md:flex-row">
             <a href="#_" className="flex items-center mb-5 font-medium text-violet-100 lg:w-auto lg:items-center lg:justify-center md:mb-0">
-                <span className="mx-auto text-xl font-black leading-none text-violet-200 select-none">cs0<span className="text-violet-500">32</span>0</span>
+                <span className="mx-auto text-xl font-black leading-none text-violet-100 select-none">cs0<span className="text-violet-400">32</span>0</span>
             </a>
-            {/* <nav className="flex flex-wrap items-center mb-5 text-base md:mb-0 md:pl-8 md:ml-8 md:border-l md:border-gray-500"> */}
-                {/* <a href="#_" className="mr-5 font-medium leading-6 text-gray-600 hover:text-gray-900">Home</a> */}
-                {/* <a href="#_" className="mr-5 font-medium leading-6 text-gray-600 hover:text-gray-900">Features</a> */}
-                {/* <a href="#inquiries" className="mr-5 font-medium leading-6 text-gray-600 hover:text-gray-500">Business Inquiries</a> */}
-                {/* <a href="#_" className="mr-5 font-medium leading-6 text-gray-600 hover:text-gray-900">Blog</a> */}
-            {/* </nav> */}
         </div>
 
-        <div className="inline-flex items-center ml-5 space-x-10 lg:justify-end text-violet-200 ">
+        <div className="inline-flex items-center ml-5 space-x-10 lg:justify-end text-violet-100 flex-wrap">
             <a href="#course-info" className="text-base font-medium leading-6 whitespace-no-wrap transition duration-150 ease-in-out hover:text-violet-500">
                 Course Info
             </a>

@@ -211,3 +211,11 @@ canvas {
     border-color: transparent;
   }
 }
+
+
+@media (min-width: 768px) {
+  /* .navbar {
+    font-size: 1rem;
+    line-height: 1.5rem;
+  } */
+}

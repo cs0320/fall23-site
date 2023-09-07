@@ -42,7 +42,7 @@ function Lectures() {
                         </a>
                       </td>
                       <td>{lecture.date}</td>
-                      <td>{lecture.code ? lecture.code : 'N/A'}</td>
+                      <td><a className='hover:text-violet-500' href={lecture.code}>{lecture.code ? 'Livecode' : ''}</a></td>
                       <td>{lecture.reading ? lecture.reading : 'N/A'}</td>
                     </tr>
                   )
