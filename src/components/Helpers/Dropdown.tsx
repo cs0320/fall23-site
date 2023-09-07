@@ -108,7 +108,10 @@ function DropDown(props: { title: string, description: string[] }) {
                                         </li>
                                         <li className='underline hover:text-violet-500'>
                                             <a href='https://docs.google.com/document/d/1vR9JL6DTHpBPrRuBPUgjwpVSbkJmuignlzd2ECuLMqo/edit?usp=drive_link'>Syllabus</a>
-                                            <a href='https://www-oreilly-com.revproxy.brown.edu/library/view/effective-java/9780134686097/?ar'>Textbook</a>
+                               
+                                        </li>
+                                        <li className='underline hover:text-violet-500'>
+                                        <a href='https://www-oreilly-com.revproxy.brown.edu/library/view/effective-java/9780134686097/?ar'>Textbook</a>
 
                                         </li>
                                         <li className='underline hover:text-violet-500'>

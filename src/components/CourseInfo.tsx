@@ -27,7 +27,7 @@ function CourseInfo() {
                   </svg>Useful Links</span>
               </div>
             </div>
-              <div className='text-gray-600'>
+              <div className='text-gray-600 flex-wrap'>
                 <a className="quick-link hover:text-violet-500" href="https://docs.google.com/document/d/1vR9JL6DTHpBPrRuBPUgjwpVSbkJmuignlzd2ECuLMqo/edit?usp=drive_link" target="_blank">Syllabus</a>
                 <a className="quick-link hover:text-violet-500" href="https://edstem.org/us/courses/45869/discussion/" target="_blank">EdStem</a>
                 <a className="quick-link hover:text-violet-500" href="https://hours.cs.brown.edu/" target="_blank">Hours</a>
