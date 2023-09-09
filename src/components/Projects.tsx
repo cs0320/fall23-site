@@ -75,7 +75,7 @@ function Projects() {
                       </td>
                       <td>{gearup.date}</td>
                       <td> <a href={gearup.slides}>{gearup.slides ? 'Slides' : ''}</a></td>
-                      <td>{gearup.recording}</td>
+                      <td><a href={gearup.recording}>{gearup.recording ? 'Recording' : ''}</a></td>
                     </tr>
                   )
                 })}
