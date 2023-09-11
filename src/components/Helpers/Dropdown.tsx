@@ -39,10 +39,10 @@ function DropDown(props: { title: string, description: string[] }) {
                                         Arrive at your assigned collab section at the proper time every other week — use the <a className='underline hover:text-violet-500'>swap form</a> if you can't make it.
                                         </li>
                                         <li className='mb-2'>
-                                        Fill out the <a className='underline hover:text-violet-500'>Debugging Partner Form</a> for each student you help
+                                        Fill out the <a className='underline hover:text-violet-500' href='https://docs.google.com/forms/d/1IQcWVzJXpuHixTJ_BNAUe4cL-fuFZR7hhEsVJkMrYFc/edit'>Debugging Partner Form</a> for each student you help
                                         </li>
                                         <li className='mb-2'>
-                                        Remember, you only need to spend 20 minutes per student + go through one iteration of the Debugging Recipe
+                                        Remember, you only need to spend 20 minutes per student + go through one iteration of the Debugging Recipe. 
                                         </li>
                                         <li className='mb-2'>
                                         If you're the one with a bug, make sure to sign up for "Debugging Partner Queue" on <a className='underline hover:text-violet-500'>hours.cs.brown.edu</a>
