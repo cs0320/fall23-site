@@ -13,6 +13,14 @@
         "topic":"Testing, Strategies, and the Debugging Recipe",
         "notes":"https://hackmd.io/@brown-csci0320/B10Bog00h",
         "code":"",
+        "reading":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8ca9a655-17ed-468f-856b-b05f0146aff0"
+    },
+     {
+        "id":3,
+        "date":"9/14",
+        "topic":"Equality in Java, Contracts",
+        "notes":"https://hackmd.io/@brown-csci0320/S1z_Ode1p",
+        "code":"",
         "reading":""
     }
 ]

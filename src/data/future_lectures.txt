@@ -2,8 +2,8 @@
     {
         "id":3,
         "date":"9/14",
-        "topic":"",
-        "notes":"",
+        "topic":"Equality in Java, Contracts",
+        "notes":"https://hackmd.io/@brown-csci0320/S1z_Ode1p",
         "code":"",
         "reading":""
     },
