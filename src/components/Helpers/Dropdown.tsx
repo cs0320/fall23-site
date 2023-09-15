@@ -36,7 +36,7 @@ function DropDown(props: { title: string, description: string[] }) {
                                 {props.title === 'How to: Collab Section' && 
                                     <div>
                                         <li className='mb-2'>
-                                        Arrive at your assigned collab section at the proper time every other week — use the <a className='underline hover:text-violet-500'>swap form</a> if you can't make it.
+                                        Arrive at your assigned collab section at the proper time every other week — use the <a className='underline hover:text-violet-500' href='https://docs.google.com/forms/d/e/1FAIpQLSccc2O9xFprtni4m5TAtRfE6DoI7F-F3ffLJwjee40VnDvTAQ/viewform'>swap form</a> if you can't make it.
                                         </li>
                                         <li className='mb-2'>
                                         Fill out the <a className='underline hover:text-violet-500' href='https://docs.google.com/forms/d/1IQcWVzJXpuHixTJ_BNAUe4cL-fuFZR7hhEsVJkMrYFc/edit'>Debugging Partner Form</a> for each student you help
