@@ -10,8 +10,8 @@
     {
         "id":4,
         "date":"9/19",
-        "topic":"",
-        "notes":"",
+        "topic":"Proxies (Defensive and Otherwise)",
+        "notes":"https://hackmd.io/@brown-csci0320/Hk6MzNDJa",
         "code":"",
         "reading":""
     },
