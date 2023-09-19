@@ -73,6 +73,14 @@
         "demos": "N/A"
     },
     {
+        "id":7,
+        "title":"Sprint 5: Maps",
+        "link":"",
+        "release": "11/2",
+        "due": "11/10",
+        "demos": "11/11-11/12"
+    },
+    {
         "id":9,
         "title":"Term Project",
         "link":"",
