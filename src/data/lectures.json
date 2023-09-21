@@ -12,7 +12,7 @@
         "date":"9/12",
         "topic":"Testing, Strategies, and the Debugging Recipe",
         "notes":"https://hackmd.io/@brown-csci0320/B10Bog00h",
-        "code":"",
+        "code":"https://github.com/cs0320/class-livecode/tree/main/F23/sep12-seatingsorting",
         "reading":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8ca9a655-17ed-468f-856b-b05f0146aff0"
     },
      {
@@ -20,7 +20,7 @@
         "date":"9/14",
         "topic":"Equality in Java, Contracts",
         "notes":"https://hackmd.io/@brown-csci0320/S1z_Ode1p",
-        "code":"",
+        "code":"https://github.com/cs0320/class-livecode/tree/main/F23/sep14-equality",
         "reading":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1a76f539-a3da-4d05-b1b3-b05f0146b00a"
     },
     {
@@ -30,6 +30,14 @@
         "notes":"https://hackmd.io/@brown-csci0320/Hk6MzNDJa",
         "code":"https://github.com/cs0320/class-livecode/tree/main/F23/sep19_queue_manager",
         "reading":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9c614785-f6b1-4f39-90b9-b05f0146b028"
+    },
+    {
+        "id":5,
+        "date":"9/21",
+        "topic":"Web APIs and Integration Testing",
+        "notes":"https://hackmd.io/@brown-csci0320/H1ywxTK1a",
+        "code":"https://github.com/cs0320/class-livecode/tree/main/F23/sep21_nws_api",
+        "reading":""
     }
 ]
 
