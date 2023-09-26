@@ -19,7 +19,7 @@ function Lectures() {
             Lectures
           </h1>
           <div className="text-sm md:text-base text-indigo-900">
-            <p>Every project, homework, and lab should be turned in via Gradescope. Every assignment will be available by 11:59 pm ET on the day listed, and will be due at 11:59 pm ET on the due date listed. Written assignments should be submitted as PDFs. All assignment release and due dates are also available through the course calendar. The assignment dates currently listed are tentative and may change. If any dates are shifted, an EdStem announcement will be made informing you of the change.</p>
+            <p>cs0320 is taught by Tim Nelson. Lectures are held every Tuesday and Thursday from 1:00 to 2:20 PM in Salomon 001 and recordings will be uploaded after each lecture.</p>
             <table className="table">
               <thead>
                 <tr className="table-header text-violet-500">
