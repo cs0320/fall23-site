@@ -46,7 +46,15 @@
         "notes":"https://docs.google.com/presentation/d/17OtkZwgqiSUt_b2Kzr5XAHhAGPi4WFqjaU6vmX5HkTs",
         "code":"",
         "reading":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c863a10c-8653-4a32-859b-b05f0146b064"
-    }
+    }, 
+    {
+        "id":7,
+        "date":"9/28",
+        "topic":"Wildcards in Generics",
+        "notes":"https://hackmd.io/@brown-csci0320/HJYRnX7xa",
+        "code":"",
+        "reading":""
+    },
     
 ]
 

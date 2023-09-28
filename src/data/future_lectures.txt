@@ -1,37 +1,5 @@
 
     {
-        "id":3,
-        "date":"9/14",
-        "topic":"Equality in Java, Contracts",
-        "notes":"https://hackmd.io/@brown-csci0320/S1z_Ode1p",
-        "code":"",
-        "reading":""
-    },
-    {
-        "id":4,
-        "date":"9/19",
-        "topic":"Proxies (Defensive and Otherwise)",
-        "notes":"https://hackmd.io/@brown-csci0320/Hk6MzNDJa",
-        "code":"",
-        "reading":""
-    },
-    {
-        "id":5,
-        "date":"9/21",
-        "topic":"",
-        "notes":"",
-        "code":"",
-        "reading":""
-    },
-    {
-        "id":6,
-        "date":"9/26",
-        "topic":"",
-        "notes":"",
-        "code":"",
-        "reading":""
-    },
-    {
         "id":7,
         "date":"9/28",
         "topic":"",
