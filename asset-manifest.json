@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/fall23-site/static/css/main.71fecd88.css",
-    "main.js": "/fall23-site/static/js/main.9ef1b14e.js",
+    "main.js": "/fall23-site/static/js/main.cc49a6ac.js",
     "static/js/787.dd4029b4.chunk.js": "/fall23-site/static/js/787.dd4029b4.chunk.js",
     "index.html": "/fall23-site/index.html",
     "main.71fecd88.css.map": "/fall23-site/static/css/main.71fecd88.css.map",
-    "main.9ef1b14e.js.map": "/fall23-site/static/js/main.9ef1b14e.js.map",
+    "main.cc49a6ac.js.map": "/fall23-site/static/js/main.cc49a6ac.js.map",
     "787.dd4029b4.chunk.js.map": "/fall23-site/static/js/787.dd4029b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.71fecd88.css",
-    "static/js/main.9ef1b14e.js"
+    "static/js/main.cc49a6ac.js"
   ]
 }
