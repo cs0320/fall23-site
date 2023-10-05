@@ -54,6 +54,14 @@
         "notes":"https://hackmd.io/@brown-csci0320/HJYRnX7xa",
         "code":"",
         "reading":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fb385263-c147-42eb-a7a3-b05f0146b081"
+    },
+    {
+        "id":8,
+        "date":"10/3",
+        "topic":"Webapps: HTML/CSS, TypeScript, React, Playwright",
+        "notes":"https://hackmd.io/@brown-csci0320/SkFsQ9Kg6",
+        "code":"https://github.com/cs0320/class-livecode/tree/main/F23/reactNYT",
+        "reading":""
     }
     
 ]
