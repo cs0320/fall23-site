@@ -64,12 +64,20 @@
         "reading":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=28f3aec8-e6fb-4c0a-8d05-b05f0146b09e"
     },
     {
-        "id":8,
+        "id":9,
         "date":"10/5",
         "topic":"Webapps: HTML/CSS, TypeScript, React Pt. 2",
         "notes":"https://hackmd.io/@brown-csci0320/SkFsQ9Kg6",
         "code":"https://github.com/cs0320/class-livecode/tree/main/F23/reactNYT",
-        "reading":""
+        "reading":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=02f7e17e-4f49-4a7a-8497-b05f0146b0ca"
+    },
+    {
+        "id":10,
+        "date":"10/10",
+        "topic":"React/Typescript Misc + Final Handout Info",
+        "notes":"https://hackmd.io/@brown-csci0320/SkFsQ9Kg6",
+        "code":"",
+        "reading":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=69172144-0b66-4d73-8ef4-b05f0146b0f4"
     }
     
 ]
