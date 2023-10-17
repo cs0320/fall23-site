@@ -86,6 +86,14 @@
         "notes":"",
         "code":"",
         "reading":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=69172144-0b66-4d73-8ef4-b05f0146b0f4"
+    },
+    {
+        "id":11,
+        "date":"10/17",
+        "topic":"Concurrency (Java)",
+        "notes":"https://hackmd.io/@brown-csci0320/rJjMmm2WT",
+        "code":"https://github.com/cs0320/class-livecode/tree/main/F23/oct17_concurrent_queue_manager",
+        "reading":""
     }
     
 ]
