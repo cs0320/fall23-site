@@ -1,28 +1,6 @@
 
-    {
-        "id":11,
-        "date":"10/12",
-        "topic":"",
-        "notes":"",
-        "code":"",
-        "reading":""
-    },
-    {
-        "id":12,
-        "date":"10/17",
-        "topic":"",
-        "notes":"",
-        "code":"",
-        "reading":""
-    },
-    {
-        "id":13,
-        "date":"10/19",
-        "topic":"",
-        "notes":"",
-        "code":"",
-        "reading":""
-    },
+
+    
     {
         "id":14,
         "date":"10/24",

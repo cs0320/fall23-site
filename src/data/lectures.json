@@ -93,6 +93,14 @@
         "topic":"Concurrency (Java)",
         "notes":"https://hackmd.io/@brown-csci0320/rJjMmm2WT",
         "code":"https://github.com/cs0320/class-livecode/tree/main/F23/oct17_concurrent_queue_manager",
+        "reading":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f8254e79-d1d5-4b29-88ac-b05f0146b142"
+    },
+    {
+        "id":13,
+        "date":"10/19",
+        "topic":"TypeScript/JavaScript Asynchrony",
+        "notes":"https://hackmd.io/@brown-csci0320/r1dYej0-p",
+        "code":"https://github.com/cs0320/class-livecode/tree/main/F23",
         "reading":""
     }
     
