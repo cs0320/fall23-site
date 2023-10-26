@@ -1,23 +1,5 @@
 
-
-    
-    {
-        "id":14,
-        "date":"10/24",
-        "topic":"",
-        "notes":"",
-        "code":"",
-        "reading":""
-    },
-    {
-        "id":15,
-        "date":"10/26",
-        "topic":"",
-        "notes":"",
-        "code":"",
-        "reading":""
-    },
-    {
+ {
         "id":16,
         "date":"10/31",
         "topic":"",
