@@ -118,6 +118,22 @@
         "notes":"https://hackmd.io/@brown-csci0320/ByOKPxdGT",
         "code":"",
         "reading":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0ba8f8c2-3d05-4729-88ca-b05f0146b1db"
+    },
+    {
+        "id":15,
+        "date":"10/31",
+        "topic":"Mock Review",
+        "notes":"",
+        "code":"",
+        "reading":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=11ee0aad-adf9-4338-9a42-b05f0146b1f3"
+    },
+    {
+        "id":15,
+        "date":"11/2",
+        "topic":"Guest Lecture: Michael Ljung",
+        "notes":"",
+        "code":"",
+        "reading":""
     }
     
 ]
