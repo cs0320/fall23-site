@@ -138,11 +138,28 @@
     {
         "id":15,
         "date":"11/7",
-        "topic":" Lena Renshaw",
+        "topic":"Guest Lecture: Lena Renshaw",
         "notes":"",
         "code":"",
         "reading":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7ed4c496-6a5d-4f7a-a030-b05f0146b220"
+    },
+    {
+        "id":15,
+        "date":"11/9",
+        "topic":"Guest Lecture: Anjali Pal ",
+        "notes":"",
+        "code":"",
+        "reading":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=62576880-cbe0-408c-8a77-b05f0146b238"
+    },
+    {
+        "id":15,
+        "date":"11/14",
+        "topic":"Maps Review",
+        "notes":"https://docs.google.com/presentation/d/1xrR3aGEAh7zg381nGEF2GQshz-gsYJhU1jn8mg5KVH0/edit#slide=id.g29b3a9eab86_0_0",
+        "code":"",
+        "reading":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a64ef00b-57da-45e8-bda4-b05f0146b250"
     }
+    
     
 ]
 
