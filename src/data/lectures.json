@@ -182,6 +182,14 @@
         "notes":"",
         "code":"",
         "reading":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=31047a15-b996-4f25-b6c8-b05f0146b27d"
+    },
+    {
+        "id":15,
+        "date":"11/28",
+        "topic":"Threat Modeling",
+        "notes":"https://docs.google.com/presentation/d/1ZbScQ6pPsMESVxQqCGIXpS6Ezres_9SpAesc_AtYXdo/edit",
+        "code":"",
+        "reading":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4d21f80a-5eff-4006-8b09-b05f0146b2ad"
     }
 ]
 
