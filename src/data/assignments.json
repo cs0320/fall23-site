@@ -86,6 +86,38 @@
         "release": "-",
         "due": "-",
         "demos": "-"
+    },
+    {
+        "id":10,
+        "title":"TP: Requirements, Specs, and Mockups",
+        "link":"",
+        "release": "-",
+        "due": "11/17",
+        "demos": "11/18-11/19"
+    },
+    {
+        "id":11,
+        "title":"TP: Prototyping, Initial Dev, and Low-Level Design",
+        "link":"",
+        "release": "-",
+        "due": "12/1",
+        "demos": "12/2-12/3"
+    },
+    {
+        "id":12,
+        "title":"TP: Further Component Development",
+        "link":"",
+        "release": "-",
+        "due": "12/8",
+        "demos": "12/9-12/10"
+    },
+    {
+        "id":12,
+        "title":"TP: Integration",
+        "link":"",
+        "release": "-",
+        "due": "12/8",
+        "demos": "12/9-12/10"
     }
 ]
 
